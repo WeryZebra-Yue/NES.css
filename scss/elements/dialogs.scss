@@ -22,6 +22,8 @@
     color: $background-color;
     background-color: $base-color;
     border-color: $background-color;
+    overflow:hidden
+      
 
     &:not(.is-rounded)::before {
       position: absolute;
